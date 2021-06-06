@@ -1,0 +1,162 @@
+body {
+    
+  background: linear-gradient(to right, #618078, #355ecec5);
+    
+    
+  }
+  
+  header {
+    padding: 20px 0;
+  }
+  
+  header .row,
+  footer .row {
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  header h1 {
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  
+  header nav {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  header p {
+    padding: 0 20px;
+    margin: 0;
+  }
+  
+  .jumbotron {
+    
+    background-image: url('https://uptime.com/media/website_profiles/codecademy.com.png');
+    padding: 50px;
+    height: 500px;
+    color: #fdfdfd;
+    margin: 100px;
+    margin-bottom: 10%;
+    
+  }
+
+  .jumbotron .row ,
+  .text-center {
+    text-align: end;
+  }
+  .jumbotron-p h1 {
+    display: flex;
+    margin: 20px;
+    justify-content: start;
+  }
+  
+  .jumbotron h2 {
+    font-size: 60px;
+    font-weight: 700;
+    color: #fdfdfd;
+    margin-bottom: 70%;
+    
+  }
+  
+  .jumbotron h3 {
+    margin: 20px;
+    color: #fdfdfd;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 50%;
+    
+  }
+
+  .jumbotron-p {
+    height: 500px;
+    background-size: cover;
+    height: 500px;
+    color: #fdfdfd;
+    opacity: 10.5;
+    display: flex;
+    font-size: 25px;
+    font-weight: 500;
+    text-align: justify;
+    
+  }
+
+.container {
+  margin: 10px;
+  block-size: 10px;
+  padding: 20px;
+  }
+
+  .center {
+      text-align: center;
+  }
+  
+  section .row img {
+    margin: 0 0 30px;
+    width: 100%;
+  }
+  
+  .col-md-6 {
+    margin: 0 0 30px;
+  }
+
+  .col-sm-4 {
+    color: #fdfdfd;
+    
+  }
+
+  .col-sm-8 {
+    color: #fdfdfd;
+  }
+  
+  .btn.btn-primary {
+    border-radius: 2px;
+    border: 0px;
+    color: #fdfdfd;
+    text-shadow: none;
+    background-color: #1b3295;
+    
+  }
+  
+  .btn.btn-primary:hover {
+    color: #ffffff;
+    background-color: #fbd1d5;
+  }
+  
+  .btn-secondary {
+    background-color: #E8DFE0;
+    color: #ffffff;
+    margin: 0 0 30px;
+  }
+  
+  footer {
+    font-size: 12px;
+    padding: 20px 0;
+  }
+
+  footer .col-sm-4 {
+    background-size: cover;
+    height: 50px;
+    color: #fdfdfd;
+    bottom: -35em;
+    
+  }
+  
+  footer .col-sm-8 {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  footer ul {
+    list-style: none;
+  }
+  
+  footer li img {
+    width: 32px;
+    height: 32px;
+    margin-top: 1000%;
+  }
+
+  
+ 
